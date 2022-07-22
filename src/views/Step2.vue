@@ -2,11 +2,8 @@
     <div>
         <div class="row">
             <div>
-                <div class="item">{{ org[0] }}</div>
+                <div class="item">{{ org }}</div>
                 <p>Организатор мероприятия</p>
-            </div>
-            <div>
-
             </div>
         </div>
         <div class="row">
